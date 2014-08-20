@@ -1,0 +1,37 @@
+PHASE 1 CHEAT SHEET
+
+GIT
+
+Brackets should be skipped.
+
+To add all the files in to a repository
+
+git add -A
+OR
+git add .
+
+To commit all files to the current branch
+git commit -m "your_message"
+
+To add a new branch
+git checkout -b your_branch_name
+
+To change a different branch
+git checkout (branch_name)
+
+To merge a branch go to the branch you want to merge into and type
+
+VISUAL STUDIO
+
+##Shortcuts
+Console.WriteLine();
+cw+tab
+
+Properties
+prop+tab
+
+Create a class
+Alt+Shift+C
+
+Create constructor for class that cursor is inside
+ctor+tab
